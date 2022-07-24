@@ -1,11 +1,11 @@
 # VALIDAÇÃO
 ## Caminho feliz
 
-![image](docs/clone-repo.png)
+![image](docs/validaçao1.PNG)
 
 ## Caminho triste
 
-![image](docs/clone-repo.png)
+![image](docs/validaçao2.PNG)
 
 # O desafio da forca
 
