@@ -1,3 +1,12 @@
+# VALIDAÇÃO
+## Caminho feliz
+
+![image](docs/clone-repo.png)
+
+## Caminho triste
+
+![image](docs/clone-repo.png)
+
 # O desafio da forca
 
 Olá! Você está prestes a iniciar o nosso desafio para a seleção do StartDB. Se você chegou aqui sem conhecer o StartDB, você pode encontrar mais informações [neste link](https://start.dbserver.com.br/). O desafio desse ano será desenvolver as regras de um jogo da forca. 
