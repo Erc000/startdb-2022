@@ -61,11 +61,11 @@ module.exports = Forca;
 
 ## Caminho feliz
 
-![image](docs/validaçao1.PNG)
+![image](docs/validaçao2.PNG)
 
 ## Caminho triste
 
-![image](docs/validaçao2.PNG)
+![image](docs/validaçao1.PNG)
 
 # O desafio da forca
 
